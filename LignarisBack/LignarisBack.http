@@ -1,0 +1,6 @@
+@LignarisBack_HostAddress = http://localhost:5163
+
+GET {{LignarisBack_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
